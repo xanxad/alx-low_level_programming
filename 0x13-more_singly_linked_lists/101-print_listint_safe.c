@@ -25,5 +25,7 @@ printf("-> [%p] %d\n", (void *)head->next, head->next->n);
 break;
 }
 }
+
 return (num);
+
 }
